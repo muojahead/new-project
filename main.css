@@ -3,11 +3,6 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
-    transition: .3s linear;
-    -webkit-transition: .3s linear;
-    -moz-transition: .3s linear;
-    -ms-transition: .3s linear;
-    -o-transition: .3s linear;
 }
 :root{
     --mainColor: #039EFD
