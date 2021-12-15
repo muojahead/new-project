@@ -19,7 +19,7 @@
     align-items: center;
     flex-direction: column;
     min-height: 100vh;
-    background: #009FFF; 
+    background: red; 
     background: -webkit-linear-gradient(to right, #ec2F4B, #009FFF);  
     background: linear-gradient(to right, #ec2F4B, #009FFF);
      
